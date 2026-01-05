@@ -3,4 +3,4 @@
 3. Count data
 4. Adding new column
 5. Remove columns and rows
-6. Grab Rows, Points, and Subsets From DataFrame
+6. Grab Rows, Points, & Subsets From DataFrame
