@@ -2,3 +2,4 @@
 2. Importing data from csv file & accesing the data
 3. Count data
 4. Adding new column
+5. Remove columns and rows
