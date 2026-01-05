@@ -4,3 +4,4 @@
 4. Adding new column
 5. Remove columns and rows
 6. Grab Rows, Points, & Subsets From DataFrame
+7. How To Make Conditional Selections
