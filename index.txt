@@ -7,3 +7,4 @@
 7. How To Make Conditional Selections
 8. Multiple Conditional Selections 
 9. How To Change And Reset Index
+10. How To Fix Incomplete Data
